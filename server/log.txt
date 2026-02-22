@@ -1,0 +1,9 @@
+My version of "express": "^5.2.1"
+1st term -> 5
+2nd term -> 2
+3rd term -> 1
+
+3rd term is for minor fixes(optional)
+2nd term is for recommended bug fix(Securoty Fix)
+1rd term is for major release
+^ - Install all the recommended and minor fixed automatically 
