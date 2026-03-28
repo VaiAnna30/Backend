@@ -1,0 +1,11 @@
+REST API - JSON
+
+GET /users - list all users send by HTML
+GET /api/users - to send JSON 
+
+GET /users/1 - GET user with id 1
+GET /users/2 - GET user with id 2
+
+POST /users - Create new user
+PATCH /users/1 - Edit the user with ID 1
+DELETE /users/1 - Delete the data of user 1
