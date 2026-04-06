@@ -1,0 +1,19 @@
+Status Codes
+
+100-199 : Information responses
+200-299 : Successful responses
+300-399 : Redirection responses
+400-499 : Client error responses
+500-599 : Server error responses
+
+
+200 - OK(Success)
+201 - Created {used in post}
+202 - Accepted
+204 - No Content
+400 - Bad Request
+401 - Unauthorized
+403 - Forbidden
+404 - Not Found
+
+
